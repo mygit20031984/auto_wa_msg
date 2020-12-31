@@ -1,0 +1,71 @@
+--------------------
+Date: 30:12:2020
+Time: 18:14
+Phone number: +919529224576
+Message: Test Message
+--------------------
+Date: 30:12:2020
+Time: 18:19
+Phone number: +919529224576
+Message: Kahi pan karu shakato Dinner la
+--------------------
+Date: 30:12:2020
+Time: 18:20
+Phone number: +919529224576
+Message: aur ek test message
+--------------------
+Date: 30:12:2020
+Time: 18:25
+Group_id: MH -12
+Message: This is Test Message
+--------------------
+Date: 30:12:2020
+Time: 18:27
+Group_id: MH - 12
+Message: This is Test Message
+--------------------
+Date: 30:12:2020
+Time: 18:34
+Group_id: 4H1VQpCxzd2GRZRspzX9C7
+Message: This is Test Message using Python :)
+--------------------
+Date: 30:12:2020
+Time: 18:42
+Phone number: +918605566199
+Message: 7 wajata bhetu at khade
+--------------------
+Date: 30:12:2020
+Time: 18:42
+Group_id: Ka5tJ84XU4rH1SHW0eQWaF
+Message: Happy New Year
+--------------------
+Date: 30:12:2020
+Time: 18:43
+Group_id: Ka5tJ84XU4rH1SHW0eQWaF
+Message: Happy New Year
+--------------------
+Date: 31:12:2020
+Time: 14:14
+Phone number: +918605566199
+Message: 7 wajata bhetu at khade
+--------------------
+Date: 31:12:2020
+Time: 14:15
+Phone number: +918605566199
+Message: 7 wajata bhetu at khade
+--------------------
+Date: 31:12:2020
+Time: 14:17
+Group_id: Ka5tJ84XU4rH1SHW0eQWaF
+Message: Happy New Year
+--------------------
+Date: 31:12:2020
+Time: 14:20
+Phone number: +919529224576
+Message: Love You...
+--------------------
+Date: 31:12:2020
+Time: 14:22
+Group_id: Ka5tJ84XU4rH1SHW0eQWaF
+Message: Happy New Year
+--------------------
